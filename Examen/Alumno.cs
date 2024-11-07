@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Examen
 {
-    internal class Alumno
+    public class Alumno
     {
     }
 }
